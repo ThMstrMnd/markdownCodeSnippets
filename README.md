@@ -20,4 +20,4 @@ The second paragraph text
 Follow this [link](paste link here)
 
 # Embedding Pictures
-[automated like clockwork](clockwork.jpg)
+![automated like clockwork](clockwork.jpg)
