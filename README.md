@@ -1,4 +1,4 @@
-# Table of contents
+# Table of Contents
 1. [Introduction](#introduction)
 2. [Some paragraph](#paragraph1)
     1. [Sub paragraph](#subparagraph1)
@@ -15,3 +15,6 @@ This is a sub paragraph, formatted in heading 3 style
 
 ## Another paragraph <a name="paragraph2"></a>
 The second paragraph text
+
+# Linking Pages
+Follow this [link](https://github.com/IoTPH/Assembly-E8/tree/master/ConnectionDiagram)
