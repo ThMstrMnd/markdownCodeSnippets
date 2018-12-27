@@ -17,4 +17,7 @@ This is a sub paragraph, formatted in heading 3 style
 The second paragraph text
 
 # Linking Pages
-Follow this [link](https://github.com/IoTPH/Assembly-E8/tree/master/ConnectionDiagram)
+Follow this [link](paste link here)
+
+# Embedding Pictures
+[automated like clockwork](clockwork.jpg)
